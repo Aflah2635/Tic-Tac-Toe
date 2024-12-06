@@ -44,3 +44,22 @@ To run this project locally, you need a browser that supports modern web standar
 
    ```bash
    git clone https://github.com/Aflah2635/Tic-Tac-Toe.git
+   ```
+2. Navigate to the project directory:
+ 
+   ```bash
+   cd tic-tac-toe
+   ```
+
+3. Install node modules
+   
+    ```bash
+     npm install
+     ```
+4. Run
+ 
+   ```bash
+   npm run dev
+   ```
+   
+  
