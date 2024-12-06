@@ -23,7 +23,6 @@ A visually appealing and fully functional **Tic-Tac-Toe** game built with **HTML
 ### Mobile View
 ![Mobile View](https://raw.githubusercontent.com/Aflah2635/Tic-Tac-Toe/refs/heads/main/images/phone.png)
 
-> Replace `link-to-your-screenshot` with the actual URLs of your screenshots.
 > 
 ## How to Play
 
