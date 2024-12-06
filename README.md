@@ -15,16 +15,16 @@ A visually appealing and fully functional **Tic-Tac-Toe** game built with **HTML
 ## Screenshots
 
 ### Game Board
-![Tic-Tac-Toe Game Board](link-to-your-screenshot-1)
+![Tic-Tac-Toe Game Board](https://raw.githubusercontent.com/Aflah2635/Tic-Tac-Toe/refs/heads/main/images/gameboard.png)
 
 ### Result Screen
-![Result Screen](link-to-your-screenshot-2)
+![Result Screen](https://raw.githubusercontent.com/Aflah2635/Tic-Tac-Toe/refs/heads/main/images/result.png)
 
 ### Mobile View
-![Mobile View](link-to-your-screenshot-3)
+![Mobile View](https://raw.githubusercontent.com/Aflah2635/Tic-Tac-Toe/refs/heads/main/images/phone.png)
 
 > Replace `link-to-your-screenshot` with the actual URLs of your screenshots.
-
+> 
 ## How to Play
 
 1. Player X starts the game.
