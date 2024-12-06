@@ -36,6 +36,7 @@ A visually appealing and fully functional **Tic-Tac-Toe** game built with **HTML
 ### Prerequisites
 
 To run this project locally, you need a browser that supports modern web standards.
+and Node.js (https://nodejs.org/en/download/prebuilt-installer)
 
 ### Installation
 
