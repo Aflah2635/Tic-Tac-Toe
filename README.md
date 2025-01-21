@@ -15,16 +15,15 @@ A visually appealing and fully functional **Tic-Tac-Toe** game built with **HTML
 ## Screenshots
 
 ### Game Board
-![Tic-Tac-Toe Game Board](link-to-your-screenshot-1)
+![Tic-Tac-Toe Game Board](https://raw.githubusercontent.com/Aflah2635/Tic-Tac-Toe/refs/heads/main/images/gameboard.png)
 
 ### Result Screen
-![Result Screen](link-to-your-screenshot-2)
+![Result Screen](https://raw.githubusercontent.com/Aflah2635/Tic-Tac-Toe/refs/heads/main/images/result.png)
 
 ### Mobile View
-![Mobile View](link-to-your-screenshot-3)
+![Mobile View](https://raw.githubusercontent.com/Aflah2635/Tic-Tac-Toe/refs/heads/main/images/phone.png)
 
-> Replace `link-to-your-screenshot` with the actual URLs of your screenshots.
-
+> 
 ## How to Play
 
 1. Player X starts the game.
@@ -37,6 +36,7 @@ A visually appealing and fully functional **Tic-Tac-Toe** game built with **HTML
 ### Prerequisites
 
 To run this project locally, you need a browser that supports modern web standards.
+and Node.js (https://nodejs.org/en/download/prebuilt-installer)
 
 ### Installation
 
@@ -44,3 +44,23 @@ To run this project locally, you need a browser that supports modern web standar
 
    ```bash
    git clone https://github.com/Aflah2635/Tic-Tac-Toe.git
+   ```
+2. Navigate to the project directory:
+ 
+   ```bash
+   cd tic-tac-toe
+   ```
+
+3. Install node modules
+   
+    ```bash
+     npm install
+     ```
+4. Run
+ 
+   ```bash
+   npm run dev
+   ```
+Enjoy.....................................
+   
+  
